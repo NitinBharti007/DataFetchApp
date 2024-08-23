@@ -15,37 +15,37 @@ This project is a data fetch application built with Angular. It showcases how to
 
 ### Installation
 1. Clone the repository:
-    \`\`\`bash
+    ```bash
     git clone https://github.com/yourusername/yourrepository.git
-    \`\`\`
+    ```
 2. Navigate into the project directory:
-    \`\`\`bash
+    ```bash
     cd yourrepository
-    \`\`\`
+    ```
 3. Install the required dependencies:
-    \`\`\`bash
+    ```bash
     npm install
-    \`\`\`
+    ```
 
 ### Running the Application
 To start the development server and run the application, use:
-\`\`\`bash
+```bash
 ng serve
-\`\`\`
+```
 Then, open your browser and navigate to \`http://localhost:4200\`.
 
 ### Building the Application
 To build the project for production, use:
-\`\`\`bash
+```bash
 ng build --prod
-\`\`\`
+```
 This will generate a \`dist\` folder with the compiled files.
 
 ### Testing
 To run unit tests for the application, use:
-\`\`\`bash
+```bash
 ng test
-\`\`\`
+```
 
 ## Configuration
 Configuration settings can be adjusted in the \`src/environments/\` directory. For example, you can change the API endpoint in \`environment.ts\` and \`environment.prod.ts\`.
