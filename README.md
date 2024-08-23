@@ -7,6 +7,12 @@ This project is a data fetch application built with Angular. It showcases how to
 - Responsive navbar with sorting functionality.
 - Display API data with error handling and loading states.
 
+## Screenshots
+
+Here is a screenshot of the application:
+
+![Application Screenshot](DataFetchApp.png)
+
 ## Setup and Installation
 
 ### Prerequisites
@@ -20,7 +26,7 @@ This project is a data fetch application built with Angular. It showcases how to
     ```
 2. Navigate into the project directory:
     ```bash
-    cd yourrepository
+    cd DataFetchApp
     ```
 3. Install the required dependencies:
     ```bash
