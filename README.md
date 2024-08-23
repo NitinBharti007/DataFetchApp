@@ -16,7 +16,7 @@ This project is a data fetch application built with Angular. It showcases how to
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    https://github.com/NitinBharti007/DataFetchApp.git
     ```
 2. Navigate into the project directory:
     ```bash
