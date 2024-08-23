@@ -1,29 +1,34 @@
-# API Platform
+echo "# Data Fetch Application
 
 ## Overview
-
-The API Platform is a web application that showcases API data with responsive design. It allows users to sort data by ID and view details of various data items.
+This project is a data fetch application built with Angular. It showcases how to fetch data from an API and display it in a user-friendly manner.
 
 ## Features
+- Responsive navbar with sorting functionality.
+- Dark mode toggle.
+- Display API data with error handling and loading states.
 
-- **Data Sorting**: Sort items by their ID in ascending or descending order.
-- **Responsive Design**: Adapt the layout to different screen sizes, ensuring usability on both desktop and mobile devices.
+## Setup and Installation
 
-## Prerequisites
+### Prerequisites
+- Node.js (version 14.x or later)
+- npm (Node Package Manager)
 
-- **Node.js**: Ensure Node.js is installed. You can download it from [nodejs.org](https://nodejs.org/).
-- **Angular CLI**: You need Angular CLI to manage Angular projects. Install it globally if you haven't already:
-  ```bash
-  npm install -g @angular/cli
-
-## Setup
-**1.Clone the Repository**
-Clone this repository to your local machine using Git:
+### Installation
+1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/yourusername/yourrepository.git
+    ```
+2. Navigate into the project directory:
+    ```bash
+    cd yourrepository
+    ```
+3. Install the required dependencies:
+    ```bash
+    npm install
+    ```
 
-**2.Install Dependencies**
-Install the required Node.js dependencies:
-  ```bash
-  npm install
+### Running the Application
+To start the development server and run the application, use:
+```bash
+ng serve
