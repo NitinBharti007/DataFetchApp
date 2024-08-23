@@ -22,3 +22,8 @@ Clone this repository to your local machine using Git:
   ```bash
   git clone <repository-url>
   cd <repository-folder>
+
+**2.Install Dependencies**
+Install the required Node.js dependencies:
+  ```bash
+  npm install
