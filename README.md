@@ -19,9 +19,9 @@ The API Platform is a web application that showcases API data with responsive de
 ## Setup
 **1.Clone the Repository**
 Clone this repository to your local machine using Git:
-  ```bash
-  git clone <repository-url>
-  cd <repository-folder>
+    ```bash
+    git clone <repository-url>
+    cd <repository-folder>
 
 **2.Install Dependencies**
 Install the required Node.js dependencies:
